@@ -1,0 +1,10 @@
+SPRINT BACKLOG
+Sprint: DESAFIO | VERSIONAMENTO E METODOLOGIAS ÁGEIS
+Período: 22/04/2025 a 28/04/2025
+Objetivo do Sprint:
+"Melhorar a experiência do usuário no portal através de ajustes visuais e de navegação"
+
+| ID | Descrição | 
+|----|-----------|------------|--------------------------|--------|  
+| 1  | Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário. 
+| 3  | Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhados para facilitar o meu entendimento e a minha navegação no portal. 
